@@ -13,7 +13,7 @@ Applying OCR on manually selected Region of Interests (using mouse drag) for Tex
    * Extract the region between these starting and ending coordinates when ‘enter’ is pressed. If ‘c’ is pressed the coordinates are cleared.
 6. Optical Character Recognition (OCR) is then applied on the ROI using pytesseract. (Instead of Tesseract engine, Google Vision or Azure Vision could also be used).
 
-# Result
+# Sample OCR on Image ROI
 ![Result](https://github.com/Tonumoy/OCR-on-Image-ROI-with-Tesseract/blob/main/OCR_ROI_result.png)
 
 ## Contributors
