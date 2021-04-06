@@ -14,7 +14,7 @@ Applying OCR on manually selected Region of Interests (using mouse drag) for Tex
 6. Optical Character Recognition (OCR) is then applied on the ROI using pytesseract. (Instead of Tesseract engine, Google Vision or Azure Vision could also be used).
 
 # Result
-![Result](https://github.com/Tonumoy/Fractal-Art/blob/master/RESULT.jpg?raw=true)
+![Result](https://github.com/Tonumoy/OCR-on-Image-ROI-with-Tesseract/blob/main/OCR_ROI_result.png)
 
 ## Contributors
 * Tonumoy Mukherjee tonumoymukherjee2@gmail.com
