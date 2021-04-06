@@ -1,7 +1,7 @@
 # OCR-on-Image-ROI-with-Tesseract
 Applying OCR on manually selected Region of Interests (using mouse drag) for Text extraction from Images
 
-# Steps
+# Code Flow Steps
 
 1. Install pytesseract() and setting it to the path variable
    * Tesseract Download Link: https://github.com/UB-Mannheim/tesseract/wiki
