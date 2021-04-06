@@ -12,3 +12,13 @@ Applying OCR on manually selected Region of Interests (using mouse drag) for Tex
    * Starting coordinates are stored when the left mouse button is pressed and the ending coordinates when the left mouse button is released. 
    * Extract the region between these starting and ending coordinates when ‘enter’ is pressed. If ‘c’ is pressed the coordinates are cleared.
 6. Optical Character Recognition (OCR) is then applied on the ROI using pytesseract. (Instead of Tesseract engine, Google Vision or Azure Vision could also be used).
+
+# Result
+![Result](https://github.com/Tonumoy/Fractal-Art/blob/master/RESULT.jpg?raw=true)
+
+## Contributors
+* Tonumoy Mukherjee tonumoymukherjee2@gmail.com
+
+## License & Copyright
+&#169; Tonumoy Mukherjee
+> Licensed under the [MIT License](LICENSE).
